@@ -1,4 +1,5 @@
 node_modules/
+virtual/
 # Django #
 *.log
 *.pot
@@ -6,7 +7,7 @@ node_modules/
 __pycache__
 db.sqlite3
 media
-
+virtual/
 # Backup files # 
 *.bak 
 
